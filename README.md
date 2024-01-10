@@ -5,5 +5,5 @@
 <p>
 The company who is going to be acquired they first of all analyze by creating a dashboard so they can showcase these thing to the merger company. So they can have all the answers that has been expected by the company in a single visual dashboard in a report. Some kind of thing we can better explain in form of graphical representation then a tabular representation or a text based  representation.</p>
 
-# OBJECTIVE
-The basic agenda for creating this project is - To do a audit some business infrastructure of a company.
+## OBJECTIVE
+The basic agenda of creating this project is – to audit some business infrastructure of a company.
