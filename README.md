@@ -9,8 +9,8 @@ The company who is going to be acquired they first of all analyze by creating a 
 The basic agenda of creating this project is – to audit some business infrastructure of a company.
 
 <h2>Features</h2>
-⚡PowerBI Desktop
-⚡PowerQuery Editor [For data-transformation/data-modeling]
-⚡Business(Company) Infrastructure Dashboard
-⚡Multipage fully Interactive Reports [For drawing insights and analysis]
+⚡PowerBI Desktop<br>
+⚡PowerQuery Editor [For data-transformation/data-modeling]<br>
+⚡Business(Company) Infrastructure Dashboard<br>
+⚡Multipage fully Interactive Reports [For drawing insights and analysis]<br>
 
