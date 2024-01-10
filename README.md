@@ -7,3 +7,5 @@ The company who is going to be acquired they first of all analyze by creating a 
 
 <h2>OBJECTIVE:</h2>
 The basic agenda of creating this project is – to audit some business infrastructure of a company.
+<h2>Features</h2>
+
