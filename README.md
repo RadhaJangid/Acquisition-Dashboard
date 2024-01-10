@@ -1,4 +1,3 @@
-# Acquisition-Dashboard
 <h2>USECASE</h2>
 <p>Company A is going to acquire  company B or vise - versa or whatever the company and they need to follow certain audit for business infrastructure and so that the company who is going to be acquired by the another company. They are planning to do audit on different - 2 kind of feature and different - 2 kind of requirement.</p>
 <p>Auditing some business infrastructure of a company.</p>
